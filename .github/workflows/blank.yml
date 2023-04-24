@@ -14,5 +14,3 @@ jobs:
           token: ${{ secrets.SLACK_TOKEN }}
           path: test.txt
           channel: bot-testing
- 
- 
